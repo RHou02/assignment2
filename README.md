@@ -10,4 +10,4 @@ Assignment2/
 
 ## Notes
 
-All required analyses, visualizations, and findings for this assignment are included within the notebooks.
+Required analyses, visualizations, and findings for this assignment are included within the notebooks.
